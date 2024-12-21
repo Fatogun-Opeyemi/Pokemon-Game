@@ -6,12 +6,12 @@ body{
     padding: 20px;
     margin-top: -10vh;
     color: #FFF5EA;
+    overflow: hidden;
     /* background-color: #111812; */
 }
 
 h1{
     font-size: 48px;
-    /* visibility: ; */
 }
 .custom-shape-divider-bottom-1734711272 {
 position: absolute;
